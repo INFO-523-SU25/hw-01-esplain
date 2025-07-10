@@ -1,2 +1,9 @@
 jupyter
 nbformat
+numpy
+pandas
+statistics
+scipy
+scikit-learn
+matplotlib
+seaborn
